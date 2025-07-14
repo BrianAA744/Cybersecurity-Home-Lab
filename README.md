@@ -7,3 +7,5 @@ The purpose of this lab was to get some hands-on experience with creating a virt
 Firstly, I set up Ubuntu and Kali on the VirtualBox hypervisor, and updated both systems, and installed all the additional tools I would need using the terminal.
 
 Next, I simulated an attack from Kali, with Ubuntu as my target machine. Then I used Ubuntu to install Wireshark as the networking tool that would capture the network traffic.
+
+This was displayed in a network diagram that I created.
